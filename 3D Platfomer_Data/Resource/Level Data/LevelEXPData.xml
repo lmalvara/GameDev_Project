@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelEXPData>
+  <Levels>
+  <Level level="
+    1"><NextEXP> 1200</NextEXP>
+  </Level>
+  <Level level="
+    2"><NextEXP> 2700</NextEXP>
+  </Level>
+  <Level level="
+    3"><NextEXP> 4500</NextEXP>
+  </Level>
+  <Level level="
+    4"><NextEXP> 6600</NextEXP>
+  </Level>
+  <Level level="
+    5"><NextEXP> 9000</NextEXP>
+  </Level>
+  <Level level="
+    6"><NextEXP> 11700</NextEXP>
+  </Level>
+  <Level level="
+    7"><NextEXP> 14000</NextEXP>
+  </Level>
+  <Level level="
+    8"><NextEXP> 16500</NextEXP>
+  </Level>
+  <Level level="
+    9"><NextEXP> 19200</NextEXP>
+  </Level>
+  <Level level="
+    10"><NextEXP> 22100</NextEXP>
+  </Level>
+  <Level level="
+    11"><NextEXP> 25200</NextEXP>
+  </Level>
+  <Level level="
+    12"><NextEXP> 28500</NextEXP>
+  </Level>
+  <Level level="
+    13"><NextEXP> 32000</NextEXP>
+  </Level>
+  <Level level="
+    14"><NextEXP> 35700</NextEXP>
+  </Level>
+  <Level level="
+    15"><NextEXP> 39600</NextEXP>
+  </Level>
+  <Level level="
+    16"><NextEXP> 43700</NextEXP>
+  </Level>
+  <Level level="
+    17"><NextEXP> 48000</NextEXP>
+  </Level>
+  <Level level="
+    18"><NextEXP> 52500</NextEXP>
+  </Level>
+  <Level level="
+    19"><NextEXP> 57200</NextEXP>
+  </Level>
+  <Level level="
+    20"><NextEXP> 62100</NextEXP>
+  </Level>
+  <Level level="
+    21"><NextEXP> 67200</NextEXP>
+  </Level>
+  <Level level="
+    22"><NextEXP> 72500</NextEXP>
+  </Level>
+  <Level level="
+    23"><NextEXP> 78000</NextEXP>
+  </Level>
+  <Level level="
+    24"><NextEXP> 83700</NextEXP>
+  </Level>
+  <Level level="
+    25"><NextEXP> 89600</NextEXP>
+  </Level>
+  <Level level="
+    26"><NextEXP> 95700</NextEXP>
+  </Level>
+  <Level level="
+    27"><NextEXP> 102000</NextEXP>
+  </Level>
+  <Level level="
+    28"><NextEXP> 108500</NextEXP>
+  </Level>
+  <Level level="
+    29"><NextEXP> 115200</NextEXP>
+  </Level>
+  <Level level="
+    30"><NextEXP> 122100</NextEXP>
+  </Level>
+  <Level level="
+    31"><NextEXP> 136000</NextEXP>
+  </Level>
+  <Level level="
+    32"><NextEXP> 157500</NextEXP>
+  </Level>
+  <Level level="
+    33"><NextEXP> 180000</NextEXP>
+  </Level>
+  <Level level="
+    34"><NextEXP> 203500</NextEXP>
+  </Level>
+  <Level level="
+    35"><NextEXP> 228000</NextEXP>
+  </Level>
+  <Level level="
+    36"><NextEXP> 273000</NextEXP>
+  </Level>
+  <Level level="
+    37"><NextEXP> 320000</NextEXP>
+  </Level>
+  <Level level="
+    38"><NextEXP> 369000</NextEXP>
+  </Level>
+  <Level level="
+    39"><NextEXP> 420000</NextEXP>
+  </Level>
+  <Level level="
+    40"><NextEXP> 473000</NextEXP>
+  </Level>
+  <Level level="
+    41"><NextEXP> 528000</NextEXP>
+  </Level>
+  <Level level="
+    42"><NextEXP> 585000</NextEXP>
+  </Level>
+  <Level level="
+    43"><NextEXP> 644000</NextEXP>
+  </Level>
+  <Level level="
+    44"><NextEXP> 705000</NextEXP>
+  </Level>
+  <Level level="
+    45"><NextEXP> 768000</NextEXP>
+  </Level>
+  <Level level="
+    46"><NextEXP> 833000</NextEXP>
+  </Level>
+  <Level level="
+    47"><NextEXP> 900000</NextEXP>
+  </Level>
+  <Level level="
+    48"><NextEXP> 1453500</NextEXP>
+  </Level>
+  <Level level="
+    49"><NextEXP> 2080000</NextEXP>
+  </Level>
+  <Level level="
+    50"><NextEXP> 3180000</NextEXP>
+  </Level>
+  <Level level="
+    51"><NextEXP> 4050000</NextEXP>
+  </Level>
+  <Level level="
+    52"><NextEXP> 5005000</NextEXP>
+  </Level>
+  <Level level="
+    53"><NextEXP> 6048000</NextEXP>
+  </Level>
+  <Level level="
+    54"><NextEXP> 7980000</NextEXP>
+  </Level>
+  <Level level="
+    55"><NextEXP> 10092000</NextEXP>
+  </Level>
+  <Level level="
+    56"><NextEXP> 12390000</NextEXP>
+  </Level>
+  <Level level="
+    57"><NextEXP> 14880000</NextEXP>
+  </Level>
+  <Level level="
+    58"><NextEXP> 17019000</NextEXP>
+  </Level>
+  <Level level="
+    59"><NextEXP> 20150000</NextEXP>
+  </Level>
+  <Level level="
+    60"><NextEXP> 23586000</NextEXP>
+  </Level>
+  <Level level="
+    61"><NextEXP> 27000000</NextEXP>
+  </Level>
+  <Level level="
+    62"><NextEXP> 29400000</NextEXP>
+  </Level>
+  <Level level="
+    63"><NextEXP> 31900000</NextEXP>
+  </Level>
+  <Level level="
+    64"><NextEXP> 39100000</NextEXP>
+  </Level>
+  <Level level="
+    65"><NextEXP> 46800000</NextEXP>
+  </Level>
+  <Level level="
+    66"><NextEXP> 55000000</NextEXP>
+  </Level>
+  <Level level="
+    67"><NextEXP> 63700000</NextEXP>
+  </Level>
+  <Level level="
+    68"><NextEXP> 72900000</NextEXP>
+  </Level>
+  <Level level="
+    69"><NextEXP> 82600000</NextEXP>
+  </Level>
+  <Level level="
+    70"><NextEXP> -1</NextEXP>
+  </Level>
+  </Levels>
+</LevelEXPData>

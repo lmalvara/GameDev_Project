@@ -1,0 +1,12 @@
+.psd filter=lfs diff=lfs merge=lfs -text
+*.resS filter=lfs diff=lfs merge=lfs -text
+*.map filter=lfs diff=lfs merge=lfs -text
+*.assets filter=lfs diff=lfs merge=lfs -text
+*.resource filter=lfs diff=lfs merge=lfs -text
+C:/Users/Luis/Desktop/resume/UH[[:space:]]semester/banana[[:space:]]cat[[:space:]].exe/rev[[:space:]]5/3D[[:space:]]Platfomer_Data filter=lfs diff=lfs merge=lfs -text
+C:/Users/Luis/Desktop/resume/UH[[:space:]]semester/banana[[:space:]]cat[[:space:]].exe/rev[[:space:]]5/3D[[:space:]]Platfomer_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+C:/Users/Luis/Desktop/resume/UH[[:space:]]semester/banana[[:space:]]cat[[:space:]].exe/rev[[:space:]]5/3D[[:space:]]Platfomer_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+C:/Users/Luis/Desktop/resume/UH[[:space:]]semester/banana[[:space:]]cat[[:space:]].exe/rev[[:space:]]5/3D[[:space:]]Platfomer_Data/level0 filter=lfs diff=lfs merge=lfs -text
+C:/Users/Luis/Desktop/resume/UH[[:space:]]semester/banana[[:space:]]cat[[:space:]].exe/rev[[:space:]]5/3D[[:space:]]Platfomer_Data/level1 filter=lfs diff=lfs merge=lfs -text
+C:/Users/Luis/Desktop/resume/UH[[:space:]]semester/banana[[:space:]]cat[[:space:]].exe/rev[[:space:]]5/3D[[:space:]]Platfomer_Data/level2 filter=lfs diff=lfs merge=lfs -text
+C:/Users/Luis/Desktop/resume/UH[[:space:]]semester/banana[[:space:]]cat[[:space:]].exe/rev[[:space:]]5/3D[[:space:]]Platfomer_Data/level3 filter=lfs diff=lfs merge=lfs -text
